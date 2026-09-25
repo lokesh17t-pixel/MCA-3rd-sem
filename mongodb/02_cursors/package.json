@@ -1,9 +1,0 @@
-{
-  "name": "02_cursors",
-  "private": true,
-  "main": "app.js",
-  "type": "module",
-  "dependencies": {
-    "mongodb": "^7.6.0"
-  }
-}

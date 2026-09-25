@@ -1,9 +1,0 @@
-{
-  "name": "01_basics",
-  "module": "index.ts",
-  "type": "module",
-  "private": true,
-  "dependencies": {
-    "mongodb": "^7.6.0"
-  }
-}
